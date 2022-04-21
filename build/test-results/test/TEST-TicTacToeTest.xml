@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TicTacToeTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-04-20T12:21:57" hostname="ALC-C07XH0VZG1J2.local" time="0.042">
+  <properties/>
+  <testcase name="X wins with right to left()" classname="TicTacToeTest" time="0.028"/>
+  <testcase name="no one wins()" classname="TicTacToeTest" time="0.001"/>
+  <testcase name="there are no winners at the beginning()" classname="TicTacToeTest" time="0.001"/>
+  <testcase name="X wins with a row()" classname="TicTacToeTest" time="0.001"/>
+  <testcase name="X wins with left to right diagonal()" classname="TicTacToeTest" time="0.002"/>
+  <testcase name="X wins with a column()" classname="TicTacToeTest" time="0.001"/>
+  <testcase name="a taken field cannot be taken again()" classname="TicTacToeTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
